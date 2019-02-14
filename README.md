@@ -1,2 +1,2 @@
 # Colfax High Performance Computing
-Exercises of High Performance Computing about OpenMP, clusters and MPI.
+Exercises of HPC about OpenMP, clusters and MPI.
